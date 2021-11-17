@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JacksWit
-- 👀 I’m interested in learning Python, C# & Java
+- 👀 I’m interested in learning Python, C#, JS, PHP
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me: jackeswitzer@gmail.com
